@@ -8,3 +8,5 @@ Tokenizing, POS tagging, TF-IDF, MAP, NDGC, SpaCY
 
 
 **Assignment_2**
+
+Index documents into pyserini, Implement Pivoted Length Normalization, Implement and Tune BM25, Design Your Own Scoring Function
