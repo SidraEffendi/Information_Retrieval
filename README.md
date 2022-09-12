@@ -4,9 +4,16 @@ Repo contains my homework assignment from information retrieval course I will in
 
 **Assignment_1**
 
-Tokenizing, POS tagging, TF-IDF, MAP, NDGC, SpaCY
+- Tokenizing using SpaCy
+- POS tagging using SpaCy
+- TF-IDF
+- MAP
+- NDGC
 
 
 **Assignment_2**
 
-Index documents into pyserini, Implement Pivoted Length Normalization, Implement and Tune BM25, Design Your Own Scoring Function
+- Index documents into pyserini
+- Implement Pivoted Length Normalization
+- Implement and Tune BM25
+- Design Your Own Scoring Function
