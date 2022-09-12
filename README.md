@@ -17,3 +17,9 @@ Repo contains my homework assignment from information retrieval course. Here I l
 - Implement Pivoted Length Normalization
 - Implement and Tune BM25
 - Design Your Own Scoring Function
+
+**Assignment_3**
+
+- Intro to PyTerrier
+- Learning To Rank
+- Deep Learning
