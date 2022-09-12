@@ -4,3 +4,7 @@ Repo contains my homework assignment from information retrieval course I will in
 
 **Assignment_1**
 
+Tokenizing, POS tagging, TF-IDF, MAP, NDGC, SpaCY
+
+
+**Assignment_2**
